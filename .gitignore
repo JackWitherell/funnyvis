@@ -1,0 +1,13 @@
+# audio folder
+audio/
+
+# programming folders
+__pycache__/
+.vscode/
+
+# save files
+save
+imgui.ini
+
+# ffmpeg
+ffmpeg.exe

@@ -1,0 +1,12 @@
+numpy
+pyopengl
+pyopengl-accellerate (optional) (not tested)
+imgui[glfw,opengl] (just imgui on mac)
+librosa
+pyaudio
+
+install all above using `pip install package` where package is the name of the package
+
+you will also need a copy of ffmpeg.exe which you can get from gyan.dev here:
+https://www.gyan.dev/ffmpeg/builds/
+I recommend ffmpeg-release-essentials.zip in the release builds section.

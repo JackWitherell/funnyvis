@@ -1,0 +1,20 @@
+2d modes
+1. pure data barcode type shader
+2. four sources in the corners
+x. checkerboard sources
+3. two sources blended and two sources left and right chroma
+4. slices of four sources (each a portion of the screen)
+5. sdf - bubbles
+6. sdf - triangle slices
+7. sdf - checkerboard grid
+
+basic effects
+1. zoom shake
+2. chromatic abberation
+3. rainbow blend overlay
+4. kalidescope sampling
+5. posterize
+6. static/glitch resampling
+7. blur convolution
+x. grayscale
+x. sepia
