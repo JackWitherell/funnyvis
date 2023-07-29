@@ -1,12 +1,20 @@
 numpy
+glfw
 pyopengl
-pyopengl-accellerate (optional) (not tested)
-imgui[glfw,opengl] (just imgui on mac)
+pyopengl-accelerate
+imgui
 librosa
 pyaudio
 
 install all above using `pip install package` where package is the name of the package
+for example
+pip install numpy
+pip install glfw
+pip install pyo...
+etc.
 
 you will also need a copy of ffmpeg.exe which you can get from gyan.dev here:
 https://www.gyan.dev/ffmpeg/builds/
 I recommend ffmpeg-release-essentials.zip in the release builds section.
+
+You can either add ffmpeg to your path or place ffmpeg.exe specifically into the program folder alongside fabby.py
