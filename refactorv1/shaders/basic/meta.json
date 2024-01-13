@@ -1,0 +1,10 @@
+{
+    "title": "Basic",
+    "description": "A basic shader that renders a casual gradient.",
+    "activity": "quad",
+    "uniforms":{
+        "resolution":{
+            "type":"vec2"
+        }
+    }
+}
